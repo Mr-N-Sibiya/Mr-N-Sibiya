@@ -1,6 +1,6 @@
 ### Hi there 👋, my Name is Nhlahla
 #### I am a Junior Data Scientist
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/9gMH9n3/Nhlahla-SIBIYA.png" alt="Nhlahla-SIBIYA" border="0"></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/h1z7fx0/1.png" alt="1" border="0"></a>
 # 💫 About Me:
 🔭Hi there! My name is Nhlahla Sibiya, and 🌱 I'm a junior data scientist with a passion for using data to solve complex problems. I have a degree in Computer Science and Statistics, and I've spent some time honing my skills in various areas such as machine learning, deep learning, software development, web development, and Flutter.
 
