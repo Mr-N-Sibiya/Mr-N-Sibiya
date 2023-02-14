@@ -14,7 +14,17 @@ Let's connect at nsnhlahlasibiya@gmail.com or visit my LinkedIn profile at linke
 
 Skills: FLUTTER / JS / HTML / CSS/POWERBI/PYTHON/TENSORFLOW/SCI-KIT/PANDAS/DATA VISUALIZATION
 
-- 🔭 I’m currently working on this page. 
+
+- 🔭 I’m currently working on PowerBI Project 
+- 🌱 I’m currently learning mySQL 
+- 🤔 I’m looking for help with aws ML deployment 
+- 💬 Ask me about computer vision 
+- 📫 How to reach me: linkedin.com/in/nhlahla-sibiya 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Mr-N-Sibiya/Mr-N-Sibiya)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/linkedin.com/in/nhlahla-sibiya/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/nhlahla_two_ways/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://mr-n-sibiya.github.io/Mr-N-Sibiya---web-developer-Cv-github.io/)  
+
+
 
 
 
