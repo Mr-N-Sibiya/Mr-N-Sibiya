@@ -10,9 +10,9 @@ My projects include
 3. Statistical Analysis
 
 Certificates
-*.Introduction to Data Engineering
-*.Data warehouse certification
-*.Getting  Started with SAS Programming
+1.Introduction to Data Engineering
+2.Data warehouse certification
+3.Getting  Started with SAS Programming
 
 Qualifications
 Bsc Computer Science and Statistics
