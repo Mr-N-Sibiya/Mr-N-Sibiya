@@ -1,16 +1,25 @@
 ### Hi there 👋, my Name is Nhlahla
 #### I am a Junior Data Scientist
-[<a href="https://imgbb.com/"><img src="https://i.ibb.co/h1z7fx0/1.png" alt="1" border="0"></a>](https://ibb.co/MBGY030)
+![Black Modern Personal LinkedIn Banner (1)](https://github.com/Mr-N-Sibiya/Mr-N-Sibiya/assets/78474460/ad48d4fe-a338-4411-990c-aac52ac128a1)
 # 💫 About Me:
-🔭Hi there! My name is Nhlahla Sibiya, and 🌱 I'm a junior data scientist with a passion for using data to solve complex problems. I have a degree in Computer Science and Statistics, and I've spent some time honing my skills in various areas such as machine learning, deep learning, software development, web development, and Flutter.
+🔭Hi there! My name is Nhlahla Sibiya, and 🌱 I'm a junior data engineer with a passion for fetching, preparing and delivering best data for analysis and business use cases. I have a degree in Computer Science and Statistics, and I've spent some time honing my skills in various areas such as Data Engineering, machine learning, Extract transform and Load , Data Pipelines creation and Data Modeling and software development, web development, and Flutter.
 
 My projects include 
-1. Covid-19 face mask detector                      
+1. Text to Speech using Replicate                      
 2. salary prediction model
-3. CV website built with HTML, CSS 
-4. Magic ball with Flutter
+3. Statistical Analysis
 
-Let's connect at nsnhlahlasibiya@gmail.com or visit my LinkedIn profile at linkedin.com/in/nhlahla-sibiya.
+Certificates
+   Introduction to Data Engineering
+   Data warehouse certification
+   Getting  Started with SAS Programming
+
+Qualifications
+Bsc Computer Science and Statistics
+Dip Cooperative Management
+
+
+Let's connect at nsnhlahlasibiya@gmail.com or visit my LinkedIn profile at www.linkedin.com/in/nhlahla-sibiya
 
 
 ## 🌐 Socials:
